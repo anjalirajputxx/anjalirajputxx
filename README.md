@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m Anjali Rajput
 
-<!--
-**anjalirajputxx/anjalirajputxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I used to help build the systems that keep the digital world humming—data centers, networks, critical infrastructure. Now I’m trying to break them (ethically, of course) to figure out how to protect them.
 
-Here are some ideas to get you started:
+Somewhere between chasing down cable faults and surviving server room temps that could cook rice, I realized what fascinated me most wasn’t how things run—but how they fail—and how to keep bad actors from making them fail on purpose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+That curiosity led me into cybersecurity, and I haven’t looked back since (except occasionally to Google acronyms I probably should’ve memorized by now).
+
+---
+
+## 🧠 Interests
+
+- Cyber-physical systems & critical infrastructure security  
+- OSINT and digital forensics  
+- Adversary emulation, threat intel, and the human side of hacking  
+- Making sense of geopolitics through a cyber lens  
+- Building at the intersection of engineering, curiosity, and public interest
+
+---
+
+## 💬 Let’s Connect
+
+- 🌐 [Blog](https://logwithanjali.blogspot.com)  
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/anjali-rajput-4a50b535a])  
+- 📫 anjali290450@gmail.com
+- 💻 https://tryhackme.com/p/anjalirajput290450
+- 👩🏻‍💻 Hack The Box - HTB-DBE22D55E4
+
+---
+
+> *“If you're into cybersecurity, OSINT, or the art of staying curious (and just paranoid enough), welcome.”*
