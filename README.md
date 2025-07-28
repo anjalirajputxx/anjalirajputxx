@@ -22,7 +22,7 @@ That curiosity led me into cybersecurity, and I haven’t looked back since (exc
 
 - 🌐 [Blog](https://logwithanjali.blogspot.com)  
 - 🔗 [LinkedIn]([https://www.linkedin.com/in/anjali-rajput-4a50b535a])  
-- 📫 anjali290450@gmail.com
+- 📫 anjalirajput290450@gmail.com
 - 💻 https://tryhackme.com/p/anjalirajput290450
 - 👩🏻‍💻 Hack The Box - HTB-DBE22D55E4
 
